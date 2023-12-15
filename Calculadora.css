@@ -9,6 +9,11 @@ body{
     height: 100vh;
 }
 
+#tl-pr{
+    margin-right: 200px;
+    font-size: 78px;
+}
+
 #bd-pr{
     background-color: rgb(41, 41, 41);
     max-width: 360px;
